@@ -1,2 +1,2 @@
-# projeto_integrador
-Projeto Integrador do IFTO
+# projeto_UI
+Sistema de chamada de alunos para o lanche
